@@ -1,6 +1,6 @@
 # Matplot_Challenge
 Module 5, Challenge 
-
+This proyect uses Python Matplot to create tables and graphs needed to analize the data provide in the pharmaceutical study held on mice.  
 
 acknolegments
 https://e2eml.school/matplotlib_points.html#:~:text=Change%20the%20size&text=Using%20the%20s%20argument%2C%20you,high%2C%20choose%20s%3D100%20.
